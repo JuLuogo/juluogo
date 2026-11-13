@@ -38,7 +38,7 @@
 
   <rect x="48" y="96" width="4" height="150" rx="2" fill="url(#accent)"/>
 
-  <text x="80" y="74" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3.5" fill="#7DD3FC">PEROE.TOP · PEROC.CN</text>
+  <text x="80" y="74" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3.5" fill="#7DD3FC">GITHUB · PROFILE</text>
 
   <text x="76" y="176" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="88" font-weight="800" letter-spacing="-2" fill="url(#name)">peroe</text>
 
