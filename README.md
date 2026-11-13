@@ -9,7 +9,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-JuLuogo-181717?style=flat-square&logo=github)](https://github.com/juluogo)
 [![followers](https://img.shields.io/github/followers/juluogo?label=followers&style=flat-square&logo=github)](https://github.com/juluogo?tab=followers)
 [![stars](https://img.shields.io/github/stars/juluogo?affiliations=OWNER&style=flat-square&logo=github)](https://github.com/juluogo?tab=repositories)
-[![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjuluogo&query=public_repos&label=repos&color=0ea5e9&style=flat-square)](https://github.com/juluogo?tab=repositories)
 
 </div>
 
